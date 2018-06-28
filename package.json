@@ -1,0 +1,19 @@
+{
+  "name": "Pigeonbot",
+  "version": "a1.0",
+  "description": "Bot for Pigeon discord server",
+  "readme": "README.md",
+  "maintainers": ["kalinnnnnn"],
+  "author": "kalinnnnnn",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalinnnnnn/pigeonbot.git"
+  },
+  "license": "GPL-2.0",
+  "dependencies": {
+    "nodemon": "*",
+    "discord.js": "*",
+  },
+  "main": "app.js"
+}
+© 2018 GitHub, Inc.

@@ -1,0 +1,6 @@
+{
+  "prefix" : "p!",
+  "playing" : "p!help",
+  "modroles" : "Staff",
+  "error" : "Operation failed."
+}
